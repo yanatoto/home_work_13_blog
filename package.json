@@ -11,7 +11,7 @@
     "url": "git+https://github.com/yanatoto/home_work_13_blog.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "yana",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yanatoto/home_work_13_blog/issues"
@@ -19,6 +19,8 @@
   "homepage": "https://github.com/yanatoto/home_work_13_blog#readme",
   "devDependencies": {
     "eslint": "^7.29.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
     "prettier": "^2.3.2"
   }
 }
