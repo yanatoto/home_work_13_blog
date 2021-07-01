@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yanatoto/home_work_13_blog/issues"
   },
-  "homepage": "https://github.com/yanatoto/home_work_13_blog#readme"
+  "homepage": "https://github.com/yanatoto/home_work_13_blog#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
 }
